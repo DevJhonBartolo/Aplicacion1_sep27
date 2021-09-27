@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Misiontic2022\\Aplicacion1\\frontend\\FrontEnd.csproj": {}
+    "C:\\Misiontic2022\\Aplicacion1\\FrontEnd\\FrontEnd.csproj": {}
   },
   "projects": {
-    "C:\\Misiontic2022\\Aplicacion1\\frontend\\FrontEnd.csproj": {
+    "C:\\Misiontic2022\\Aplicacion1\\FrontEnd\\FrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Misiontic2022\\Aplicacion1\\frontend\\FrontEnd.csproj",
+        "projectUniqueName": "C:\\Misiontic2022\\Aplicacion1\\FrontEnd\\FrontEnd.csproj",
         "projectName": "FrontEnd",
-        "projectPath": "C:\\Misiontic2022\\Aplicacion1\\frontend\\FrontEnd.csproj",
+        "projectPath": "C:\\Misiontic2022\\Aplicacion1\\FrontEnd\\FrontEnd.csproj",
         "packagesPath": "C:\\Users\\Jhon Bartolo\\.nuget\\packages\\",
-        "outputPath": "C:\\Misiontic2022\\Aplicacion1\\frontend\\obj\\",
+        "outputPath": "C:\\Misiontic2022\\Aplicacion1\\FrontEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhon Bartolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
